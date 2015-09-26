@@ -16,20 +16,20 @@
 | 2015    	| Barman Het Collisée Blankenberge |
 
 ##**Kennis webtechnologieën**
-*HTML*
-*CSS*
-*JQuery*
-*Javascript*
+* *HTML*
+* *CSS*
+* *JQuery*
+* *Javascript*
 
 ##**Softwarekennis**
 
-*PLC*
-*flowcode*
-*AUTOCAD*
-*ADOBE CC*
-*Microsoft office*
+* *PLC*
+* *flowcode*
+* *AUTOCAD*
+* *ADOBE CC*
+* *Microsoft office*
 
 ##**Contactinformatie**
-Naam: Kevin De Vuyst
-Gsm: 0470/37.81.44
-Email: kevin.devuyst@student.arteveldehs.be
+* Naam: Kevin De Vuyst
+* Gsm: 0470/37.81.44
+* Email: kevin.devuyst@student.arteveldehs.be
